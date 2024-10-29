@@ -47,7 +47,7 @@ The project is organized as follows:
 Installation 
 ------------
 
-1.  ```git clone https://github.com/your-username/property-listings-app.gitcd property-listings-app ```
+1.  ```git clone https://github.com/Nicoposa1/RealEstateApp.git```
     
 2.  ```npm install```
     
@@ -70,8 +70,6 @@ To run the app on an emulator or connected device:
 To start the Metro bundler without running on a device or emulator:
 
 `npm start`
-
-### Testing
 
 Dependencies
 ------------
